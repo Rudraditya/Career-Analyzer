@@ -1,0 +1,6 @@
+{
+  "name": "CareerMatch AI",
+  "description": "Professional AI-powered JD and CV Matcher, ATS checker, interview prep suite, company researcher, and personalized career coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
